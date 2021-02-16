@@ -1,6 +1,4 @@
 #pragma once
-#include "AudioOutput.h"
-#include "AudioInput.h"
 #include "RingBuffer.h"
 
 namespace h2i {
